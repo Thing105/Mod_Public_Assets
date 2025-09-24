@@ -200,6 +200,10 @@
         "Blueprint'/Game/Packs/Frontier/Dinos/Oasisaur/Oasisaur_Character_BP.Oasisaur_Character_BP_C'",
         "Blueprint'/Game/EndGame/Dinos/Endboss/EndbossSpider/EndBossSpiderL_Character_BP.EndBossSpiderL_Character_BP_C'",
         "Blueprint'/Game/EndGame/Dinos/Endboss/EndbossGorilla/EndBossGorilla_Character_BP.EndBossGorilla_Character_BP_C'",
-        "Blueprint'/Game/EndGame/Dinos/Endboss/EndbossDragon/EndBossDragon_Character_BP.EndBossDragon_Character_BP_C'"
+        "Blueprint'/Game/EndGame/Dinos/Endboss/EndbossDragon/EndBossDragon_Character_BP.EndBossDragon_Character_BP_C'",
+        "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire'",
+        "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning'",
+        "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison'"
     ]
 }
+
