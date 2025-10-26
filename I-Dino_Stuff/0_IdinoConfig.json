@@ -7,10 +7,8 @@
 			"spawnoffset": "0,0,100,",
 			"descriptname": "Ich bins der Pillar",
 			"description": "Schwimmenn kann ichauch",
-			"statbase": "2,75,250,",
-			"reducepointschoosen": [
-				"1,15,"
-			],
+			"statbase": "0,75,250,",
+			"reducepointschoosen": [],
 			"allowgender": true
 		},
 		"DS-0":
