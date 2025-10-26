@@ -18,11 +18,15 @@
 			"dinoindex": 1,
 			"dinoname": "Allosaurus",
 			"forpillartag": "Idino_Advance",
-			"allowgendar": false,
+			"allowgendar": true,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
+			"statbase": "2,75,250,",
+			"reducepointschoosen": [
+				"1,15,",
+				"2,10,",
+				"3,5,"
+			],
+			"bitmaskbool": 0
 		},
 		"DS-1":
 		{
