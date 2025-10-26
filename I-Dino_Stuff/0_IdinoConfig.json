@@ -35,9 +35,11 @@
 			"forpillartag": "Idino_Advance",
 			"allowgendar": false,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
+			"statbase": "2,75,250,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"bitmaskbool": 1
 		}
 	},
 	"Pdx-0":
