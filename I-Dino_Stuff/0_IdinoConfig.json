@@ -19,7 +19,7 @@
 			"dinoname": "Allosaurus",
 			"forpillartag": "Idino_Advance",
 			"allowgendar": true,
-			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0))",
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(8, 0))",
 			"statbase": "2,75,250,",
 			"reducepointschoosen": [
 				"1,15,",
@@ -34,12 +34,10 @@
 			"dinoname": "Achatina",
 			"forpillartag": "Idino_Advance",
 			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0))",
-			"statbase": "2,75,250,",
-			"reducepointschoosen": [
-				"1,15,"
-			],
-			"bitmaskbool": 1
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(7, 0),(8, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
 		}
 	},
 	"Pdx-0":
