@@ -5,46 +5,7 @@
 		{
 			"tag": "Idino_Advance",
 			"spawnoffset": "0,0,100,",
-			"descriptname": "Ich bins der Pillar",
-			"description": "Schwimmenn kann ichauch",
-			"statbase": "0,75,250,",
-			"reducepointschoosen": [],
-			"allowgender": true
-		},
-		"DS-0":
-		{
-			"dinoindex": 1,
-			"dinoname": "Allosaurus",
-			"forpillartag": "Idino_Advance",
-			"allowgendar": true,
-			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(8, 0))",
-			"statbase": "2,75,250,",
-			"reducepointschoosen": [
-				"1,15,",
-				"2,10,",
-				"3,5,"
-			],
-			"bitmaskbool": 0
-		},
-		"DS-1":
-		{
-			"dinoindex": 152,
-			"dinoname": "Achatina",
-			"forpillartag": "Idino_Advance",
-			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(3, 0),(7, 0),(8, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
-		}
-	},
-	"Pdx-0":
-	{
-		"GS-0":
-		{
-			"tag": "Idino_Normal",
-			"spawnoffset": "0,0,100,",
-			"descriptname": "I-Dino Normal",
+			"descriptname": "I-Dino Advance",
 			"description": "Programable Pillar to spawn Tamed Dinos",
 			"statbase": "2,75,250,",
 			"reducepointschoosen": [
@@ -54,9 +15,20 @@
 		},
 		"DS-0":
 		{
-			"dinoindex": 152,
-			"dinoname": "Achatina",
-			"forpillartag": "Idino_Normal",
+			"dinoindex": 1,
+			"dinoname": "Allosaurus",
+			"forpillartag": "Idino_Advance",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-1":
+		{
+			"dinoindex": 54,
+			"dinoname": "Alpha Skeletal Rex",
+			"forpillartag": "Idino_Advance",
 			"allowgendar": false,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0))",
 			"statbase": "",
@@ -80,6 +52,17 @@
 		},
 		"DS-0":
 		{
+			"dinoindex": 1,
+			"dinoname": "Allosaurus",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-1":
+		{
 			"dinoindex": 3,
 			"dinoname": "Alpha Rex",
 			"forpillartag": "Idino_Wild",
@@ -88,6 +71,21 @@
 			"statbase": "",
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
+		}
+	},
+	"Pdx-0":
+	{
+		"GS-0":
+		{
+			"tag": "Idino_Normal",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "I-Dino Normal",
+			"description": "Programable Pillar to spawn Tamed Dinos",
+			"statbase": "2,75,250,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"allowgender": true
 		}
 	}
 }
