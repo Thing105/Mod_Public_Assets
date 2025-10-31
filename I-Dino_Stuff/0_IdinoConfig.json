@@ -1,4 +1,19 @@
 {
+	"Pdx-0":
+	{
+		"GS-0":
+		{
+			"tag": "Idino_Normal",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "I-Dino Normal",
+			"description": "Programable Pillar to spawn Tamed Dinos",
+			"statbase": "2,75,250,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"allowgender": true
+		}
+	},
 	"Pdx-1":
 	{
 		"GS-1":
@@ -12,28 +27,6 @@
 				"1,15,"
 			],
 			"allowgender": true
-		},
-		"DS-0":
-		{
-			"dinoindex": 1,
-			"dinoname": "Allosaurus",
-			"forpillartag": "Idino_Advance",
-			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
-		},
-		"DS-1":
-		{
-			"dinoindex": 54,
-			"dinoname": "Alpha Skeletal Rex",
-			"forpillartag": "Idino_Advance",
-			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
 		}
 	},
 	"Pdx-2":
@@ -44,43 +37,6 @@
 			"spawnoffset": "0,0,100,",
 			"descriptname": "I-Dino Wild",
 			"description": "Programable Pillar to spawn Wild Dinos",
-			"statbase": "2,75,250,",
-			"reducepointschoosen": [
-				"1,15,"
-			],
-			"allowgender": true
-		},
-		"DS-0":
-		{
-			"dinoindex": 1,
-			"dinoname": "Allosaurus",
-			"forpillartag": "Idino_Wild",
-			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
-		},
-		"DS-1":
-		{
-			"dinoindex": 3,
-			"dinoname": "Alpha Rex",
-			"forpillartag": "Idino_Wild",
-			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
-		}
-	},
-	"Pdx-0":
-	{
-		"GS-0":
-		{
-			"tag": "Idino_Normal",
-			"spawnoffset": "0,0,100,",
-			"descriptname": "I-Dino Normal",
-			"description": "Programable Pillar to spawn Tamed Dinos",
 			"statbase": "2,75,250,",
 			"reducepointschoosen": [
 				"1,15,"
