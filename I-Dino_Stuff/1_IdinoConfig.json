@@ -7,7 +7,7 @@
 			"spawnoffset": "0,0,100,",
 			"descriptname": "I-Dino Wild",
 			"description": "Programable Pillar to spawn Wild Dinos",
-			"statbase": "2,75,80,1,",
+			"statbase": "2,75,150,1,",
 			"reducepointschoosen": [
 				"1,15,"
 			],
