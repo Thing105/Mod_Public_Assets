@@ -1,4 +1,17 @@
 {
+	"Pdx-0":
+	{
+		"GS-0":
+		{
+			"tag": "Idino_Normal",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "I-Dino Normal",
+			"description": "Φlάδ??¬³",
+			"statbase": "0,65,180,1,",
+			"reducepointschoosen": [],
+			"allowgender": true
+		}
+	},
 	"Pdx-1":
 	{
 		"GS-1":
@@ -11,19 +24,6 @@
 			"reducepointschoosen": [
 				"1,15,"
 			],
-			"allowgender": true
-		}
-	},
-	"Pdx-0":
-	{
-		"GS-0":
-		{
-			"tag": "Idino_Normal",
-			"spawnoffset": "0,0,100,",
-			"descriptname": "I-Dino Normal",
-			"description": "",
-			"statbase": "0,65,180,1,",
-			"reducepointschoosen": [],
 			"allowgender": true
 		}
 	},
