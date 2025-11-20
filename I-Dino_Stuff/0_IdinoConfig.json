@@ -10,6 +10,39 @@
 			"statbase": "0,65,180,1,",
 			"reducepointschoosen": [],
 			"allowgender": true
+		},
+		"DS-0":
+		{
+			"dinoindex": 152,
+			"dinoname": "Achatina",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-1":
+		{
+			"dinoindex": 1,
+			"dinoname": "Allosaurus",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-2":
+		{
+			"dinoindex": 57,
+			"dinoname": "Alpha Raptor",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
 		}
 	},
 	"Pdx-1":
