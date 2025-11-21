@@ -1,4 +1,43 @@
 {
+	"Pdx-3":
+	{
+		"GS-3":
+		{
+			"tag": "Idino_Event",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "I-Dino Event",
+			"description": "",
+			"statbase": "2,75,250,1,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"allowgender": true
+		},
+		"DS-0":
+		{
+			"dinoindex": 152,
+			"dinoname": "Achatina",
+			"forpillartag": "Idino_Event",
+			"allowgendar": true,
+			"allowablestats": "((0, 0),(1, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "2,75,250,1,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"bitmaskbool": 48
+		},
+		"DS-1":
+		{
+			"dinoindex": 1,
+			"dinoname": "Allosaurus",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		}
+	},
 	"Pdx-0":
 	{
 		"GS-0":
@@ -45,21 +84,6 @@
 			"bitmaskbool": 8
 		}
 	},
-	"Pdx-2":
-	{
-		"GS-2":
-		{
-			"tag": "Idino_Wild",
-			"spawnoffset": "0,0,100,",
-			"descriptname": "I-Dino Wildes",
-			"description": "",
-			"statbase": "0,75,180,",
-			"reducepointschoosen": [
-				"1,15,"
-			],
-			"allowgender": true
-		}
-	},
 	"Pdx-1":
 	{
 		"GS-1":
@@ -75,15 +99,15 @@
 			"allowgender": true
 		}
 	},
-	"Pdx-3":
+	"Pdx-2":
 	{
-		"GS-3":
+		"GS-2":
 		{
-			"tag": "Idino_Event",
+			"tag": "Idino_Wild",
 			"spawnoffset": "0,0,100,",
-			"descriptname": "I-Dino Event",
+			"descriptname": "I-Dino Wildes",
 			"description": "",
-			"statbase": "2,75,250,1,",
+			"statbase": "0,75,180,",
 			"reducepointschoosen": [
 				"1,15,"
 			],
