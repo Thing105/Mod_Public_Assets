@@ -5,8 +5,8 @@
 		{
 			"tag": "Idino_Event",
 			"spawnoffset": "0,0,100,",
-			"descriptname": "I-Dino Event",
-			"description": "",
+			"descriptname": "Der Pillar",
+			"description": "Die Beschreibung was auch immer so los ist",
 			"statbase": "2,75,250,1,",
 			"reducepointschoosen": [
 				"1,15,"
