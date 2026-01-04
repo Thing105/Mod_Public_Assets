@@ -1,0 +1,62 @@
+{
+	"Pdx-0":
+	{
+		"GS-0":
+		{
+			"tag": "Idino_Normal",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "I-Dino Normal",
+			"description": "",
+			"statbase": "2,75,250,1,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"allowgender": true
+		}
+	},
+	"Pdx-1":
+	{
+		"GS-1":
+		{
+			"tag": "Idino_Advance",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "I-Dino Advance",
+			"description": "",
+			"statbase": "2,75,250,1,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"allowgender": true
+		}
+	},
+	"Pdx-2":
+	{
+		"GS-2":
+		{
+			"tag": "Idino_Wild",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "I-Dino Wildes",
+			"description": "",
+			"statbase": "2,75,250,1,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"allowgender": true
+		}
+	},
+	"Pdx-3":
+	{
+		"GS-3":
+		{
+			"tag": "Idino_Event",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "I-Dino Event",
+			"description": "",
+			"statbase": "2,75,250,1,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"allowgender": true
+		}
+	}
+}
