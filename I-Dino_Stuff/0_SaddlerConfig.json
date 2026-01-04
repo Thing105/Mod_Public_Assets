@@ -8,7 +8,7 @@
 		"descriptionplus": "",
 		"prevalues": [ 25, 150 ],
 		"prequality": 0,
-		"gitimporturl": "",
+		"gitimporturl": "https://raw.githubusercontent.com/Thing105/Mod_Public_Assets/main/I-Dino_Stuff/0_SaddlerConfig.json",
 		"gitfilenames": [
 			"0_SaddlerConfig",
 			"1_SaddlerConfig",
@@ -24,17 +24,17 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle_C",
-				"armorvalue": 25,
-				"durability": 150,
-				"quality": 0,
+				"armorvalue": 125,
+				"durability": 1150,
+				"quality": 1,
 				"amount": 1
 			},
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek_C",
-				"armorvalue": 25,
-				"durability": 150,
-				"quality": 0,
+				"armorvalue": 250,
+				"durability": 1500,
+				"quality": 4,
 				"amount": 1
 			}
 		]
