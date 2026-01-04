@@ -8,11 +8,51 @@
 		"descriptionplus": "",
 		"prevalues": [ 25, 150 ],
 		"prequality": 0,
-		"gitimporturl": "https://raw.githubusercontent.com/Thing105/Mod_Public_Assets/main/I-Dino_Stuff/0_SaddlerConfig.json",
+		"gitimporturl": "",
 		"gitfilenames": [
 			"0_SaddlerConfig",
 			"1_SaddlerConfig",
 			"2_SaddlerConfig"
+		]
+	},
+	"SaD-0":
+	{
+		"dinoindex": 1,
+		"dinoname": "Allosaurus",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_AlloSaddle.PrimalItemArmor_AlloSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			}
+		]
+	},
+	"SaD-1":
+	{
+		"dinoindex": 3,
+		"dinoname": "Alpha Rex",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Rex/MegaRex_Character_BP.MegaRex_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			}
 		]
 	}
 }
