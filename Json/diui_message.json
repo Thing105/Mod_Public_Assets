@@ -2,6 +2,6 @@
   "title":"<TextStyle.red>Eine ganz wichitge Nachricht</>",
   "text":"<TextStyle.white>Im Grunde ist dies nur eine Nachricht mit aöü und auch noch einem ß</> \n vermutlich ist es ein Zeilen umbruch /n wenn es erneut geklappt hat ist es <strong>/n</>",
   "duration":30,
-  "postion":1,
+  "position":1,
   "image":"https://i.imgur.com/hmSvl3X.png"
 }
